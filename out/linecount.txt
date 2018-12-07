@@ -1,0 +1,202 @@
+===============================================================================
+EXTENSION NAME : linecount
+EXTENSION VERSION : 0.1.7
+-------------------------------------------------------------------------------
+count time : 2018-12-07 15:57:02
+count workspace : d:\selva\FlutterSample\tastynuts
+total files : 190
+total code lines : 7405
+total comment lines : 162
+total blank lines : 1358
+
+.gitignore, code is 65, comment is 0, blank is 6.
+.idea\libraries\Dart_SDK.xml, code is 19, comment is 0, blank is 0.
+.idea\libraries\Flutter_for_Android.xml, code is 9, comment is 0, blank is 0.
+.idea\libraries\KotlinJavaRuntime.xml, code is 15, comment is 0, blank is 0.
+.idea\modules.xml, code is 9, comment is 0, blank is 0.
+.idea\runConfigurations\main_dart.xml, code is 6, comment is 0, blank is 0.
+.idea\workspace.xml, code is 36, comment is 0, blank is 0.
+.metadata, code is 8, comment is 0, blank is 2.
+.packages, code is 22, comment is 20, blank is 0.
+android\.gradle\4.10.2\fileChanges\last-build.bin, code is 1, comment is 0, blank is 0.
+android\.gradle\4.10.2\fileContent\fileContent.lock, it is a binary file.
+android\.gradle\4.10.2\fileHashes\fileHashes.bin, it is a binary file.
+android\.gradle\4.10.2\fileHashes\resourceHashesCache.bin, it is a binary file.
+android\.gradle\4.10.2\gc.properties, code is 0, comment is 0, blank is 0.
+android\.gradle\4.10.2\javaCompile\classAnalysis.bin, it is a binary file.
+android\.gradle\4.10.2\javaCompile\jarAnalysis.bin, it is a binary file.
+android\.gradle\4.10.2\javaCompile\javaCompile.lock, it is a binary file.
+android\.gradle\4.10.2\javaCompile\taskHistory.bin, it is a binary file.
+android\.gradle\4.10.2\taskHistory\taskHistory.bin, it is a binary file.
+android\.gradle\4.10.2\taskHistory\taskHistory.lock, it is a binary file.
+android\.gradle\buildOutputCleanup\buildOutputCleanup.lock, it is a binary file.
+android\.gradle\buildOutputCleanup\cache.properties, code is 2, comment is 0, blank is 0.
+android\.gradle\buildOutputCleanup\outputFiles.bin, it is a binary file.
+android\.gradle\vcs-1\gc.properties, code is 0, comment is 0, blank is 0.
+android\.project, code is 17, comment is 0, blank is 0.
+android\.settings\org.eclipse.buildship.core.prefs, code is 2, comment is 0, blank is 0.
+android\app\.classpath, code is 6, comment is 0, blank is 0.
+android\app\.project, code is 23, comment is 0, blank is 0.
+android\app\.settings\org.eclipse.buildship.core.prefs, code is 2, comment is 0, blank is 0.
+android\app\build.gradle, code is 48, comment is 3, blank is 10.
+android\app\src\main\AndroidManifest.xml, code is 24, comment is 13, blank is 2.
+android\app\src\main\java\com\example\tastynuts\MainActivity.java, code is 11, comment is 0, blank is 2.
+android\app\src\main\java\io\flutter\plugins\GeneratedPluginRegistrant.java, code is 17, comment is 3, blank is 3.
+android\app\src\main\res\drawable\launch_background.xml, code is 4, comment is 7, blank is 1.
+android\app\src\main\res\mipmap-hdpi\ic_launcher.png, it is a binary file.
+android\app\src\main\res\mipmap-mdpi\ic_launcher.png, it is a binary file.
+android\app\src\main\res\mipmap-xhdpi\ic_launcher.png, it is a binary file.
+android\app\src\main\res\mipmap-xxhdpi\ic_launcher.png, it is a binary file.
+android\app\src\main\res\mipmap-xxxhdpi\ic_launcher.png, it is a binary file.
+android\app\src\main\res\values\styles.xml, code is 6, comment is 2, blank is 0.
+android\build.gradle, code is 25, comment is 0, blank is 4.
+android\gradle.properties, code is 1, comment is 0, blank is 0.
+android\gradle\wrapper\gradle-wrapper.jar, it is a binary file.
+android\gradle\wrapper\gradle-wrapper.properties, code is 6, comment is 1, blank is 0.
+android\gradlew, code is 58, comment is 0, blank is 10.
+android\gradlew.bat, code is 27, comment is 0, blank is 8.
+android\local.properties, code is 5, comment is 0, blank is 0.
+android\settings.gradle, code is 12, comment is 0, blank is 3.
+android\tastynuts_android.iml, code is 27, comment is 0, blank is 0.
+assets\Arista-Light-Trial.ttf, it is a binary file.
+assets\Arista-Trial.ttf, it is a binary file.
+assets\boy.png, it is a binary file.
+assets\Quicksand-Bold.ttf, it is a binary file.
+assets\Quicksand-Light.ttf, it is a binary file.
+assets\Quicksand-Medium.ttf, it is a binary file.
+assets\Quicksand-Regular.ttf, it is a binary file.
+build\app.dill, it is a binary file.
+build\app.dill.incremental.dill, it is a binary file.
+build\app.dill.track.dill, it is a binary file.
+build\app.dill.track.dill.incremental.dill, it is a binary file.
+build\app\generated\not_namespaced_r_class_sources\debug\processDebugResources\r\com\example\tastynuts\R.java, code is 12, comment is 6, blank is 2.
+build\app\generated\source\buildConfig\debug\com\example\tastynuts\BuildConfig.java, code is 9, comment is 3, blank is 1.
+build\app\intermediates\annotation_processor_list\debug\javaPreCompileDebug\annotationProcessors.json, code is 1, comment is 0, blank is 0.
+build\app\intermediates\apk_list\debug\mainApkListPersistenceDebug\apk-list.gson, code is 1, comment is 0, blank is 0.
+build\app\intermediates\blame\res\debug\multi-v2\debug.json, code is 28, comment is 0, blank is 0.
+build\app\intermediates\blame\res\debug\multi-v2\values.json, code is 28, comment is 0, blank is 0.
+build\app\intermediates\blame\res\debug\single\debug.json, code is 26, comment is 0, blank is 0.
+build\app\intermediates\compatible_screen_manifest\debug\createDebugCompatibleScreenManifests\out\output.json, code is 1, comment is 0, blank is 0.
+build\app\intermediates\flutter\debug\flutter_assets\AssetManifest.json, code is 1, comment is 0, blank is 0.
+build\app\intermediates\flutter\debug\flutter_assets\assets\Arista-Light-Trial.ttf, it is a binary file.
+build\app\intermediates\flutter\debug\flutter_assets\assets\Arista-Trial.ttf, it is a binary file.
+build\app\intermediates\flutter\debug\flutter_assets\assets\Quicksand-Bold.ttf, it is a binary file.
+build\app\intermediates\flutter\debug\flutter_assets\assets\Quicksand-Light.ttf, it is a binary file.
+build\app\intermediates\flutter\debug\flutter_assets\assets\Quicksand-Medium.ttf, it is a binary file.
+build\app\intermediates\flutter\debug\flutter_assets\assets\Quicksand-Regular.ttf, it is a binary file.
+build\app\intermediates\flutter\debug\flutter_assets\FontManifest.json, code is 1, comment is 0, blank is 0.
+build\app\intermediates\flutter\debug\flutter_assets\fonts\MaterialIcons-Regular.ttf, it is a binary file.
+build\app\intermediates\flutter\debug\flutter_assets\isolate_snapshot_data, it is a binary file.
+build\app\intermediates\flutter\debug\flutter_assets\kernel_blob.bin, it is a binary file.
+build\app\intermediates\flutter\debug\flutter_assets\LICENSE, code is 5275, comment is 26, blank is 1237.
+build\app\intermediates\flutter\debug\flutter_assets\packages\cupertino_icons\assets\CupertinoIcons.ttf, it is a binary file.
+build\app\intermediates\flutter\debug\flutter_assets\vm_snapshot_data, it is a binary file.
+build\app\intermediates\flutter\debug\snapshot_blob.bin.d, code is 1, comment is 0, blank is 0.
+build\app\intermediates\flutter\debug\snapshot_blob.bin.d.fingerprint, code is 1, comment is 0, blank is 0.
+build\app\intermediates\flutter\flutter-x86.jar, it is a binary file.
+build\app\intermediates\incremental\debug-mergeJavaRes\merge-state, it is a binary file.
+build\app\intermediates\incremental\debug-mergeJavaRes\zip-cache\pzxOOic_L+9Rluw4wIOCu9VXY50=, it is a binary file.
+build\app\intermediates\incremental\debug-mergeJavaRes\zip-cache\Zh8jEF0wlpZRnbVLYy2F9yJ81+E=, it is a binary file.
+build\app\intermediates\incremental\debug-mergeJniLibs\merge-state, it is a binary file.
+build\app\intermediates\incremental\debug-mergeJniLibs\zip-cache\pzxOOic_L+9Rluw4wIOCu9VXY50=, it is a binary file.
+build\app\intermediates\incremental\debug-mergeJniLibs\zip-cache\Zh8jEF0wlpZRnbVLYy2F9yJ81+E=, it is a binary file.
+build\app\intermediates\incremental\mergeDebugJniLibFolders\merger.xml, code is 2, comment is 0, blank is 0.
+build\app\intermediates\incremental\mergeDebugResources\compile-file-map.properties, code is 7, comment is 0, blank is 0.
+build\app\intermediates\incremental\mergeDebugResources\merged.dir\values\values.xml, code is 6, comment is 2, blank is 0.
+build\app\intermediates\incremental\mergeDebugResources\merger.xml, code is 4, comment is 0, blank is 1.
+build\app\intermediates\incremental\mergeDebugShaders\merger.xml, code is 2, comment is 0, blank is 0.
+build\app\intermediates\incremental\packageDebug\tmp\debug\dex-renamer-state.txt, code is 4, comment is 0, blank is 0.
+build\app\intermediates\incremental\packageDebug\tmp\debug\file-input-save-data.txt, code is 75, comment is 0, blank is 0.
+build\app\intermediates\incremental\packageDebug\tmp\debug\zip-cache\h3xjFdy3clKzkIjrInJ1nxBAug4=, it is a binary file.
+build\app\intermediates\incremental\packageDebug\tmp\debug\zip-cache\kl88f_nM_QrW3iAYBqByd_6p9Us=, it is a binary file.
+build\app\intermediates\instant_run_merged_manifests\debug\processDebugManifest\instant-run\output.json, code is 1, comment is 0, blank is 0.
+build\app\intermediates\javac\debug\compileDebugJavaWithJavac\classes\com\example\tastynuts\BuildConfig.class, it is a binary file.
+build\app\intermediates\javac\debug\compileDebugJavaWithJavac\classes\com\example\tastynuts\MainActivity.class, it is a binary file.
+build\app\intermediates\javac\debug\compileDebugJavaWithJavac\classes\com\example\tastynuts\R$drawable.class, it is a binary file.
+build\app\intermediates\javac\debug\compileDebugJavaWithJavac\classes\com\example\tastynuts\R$mipmap.class, it is a binary file.
+build\app\intermediates\javac\debug\compileDebugJavaWithJavac\classes\com\example\tastynuts\R$style.class, it is a binary file.
+build\app\intermediates\javac\debug\compileDebugJavaWithJavac\classes\com\example\tastynuts\R.class, it is a binary file.
+build\app\intermediates\javac\debug\compileDebugJavaWithJavac\classes\io\flutter\plugins\GeneratedPluginRegistrant.class, it is a binary file.
+build\app\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml, code is 31, comment is 18, blank is 6.
+build\app\intermediates\merged_manifests\debug\processDebugManifest\merged\output.json, code is 1, comment is 0, blank is 0.
+build\app\intermediates\processed_res\debug\processDebugResources\out\output.json, code is 1, comment is 0, blank is 0.
+build\app\intermediates\processed_res\debug\processDebugResources\out\resources-debug.ap_, it is a binary file.
+build\app\intermediates\res\merged\debug\drawable_launch_background.xml.flat, it is a binary file.
+build\app\intermediates\res\merged\debug\mipmap-hdpi_ic_launcher.png.flat, it is a binary file.
+build\app\intermediates\res\merged\debug\mipmap-mdpi_ic_launcher.png.flat, it is a binary file.
+build\app\intermediates\res\merged\debug\mipmap-xhdpi_ic_launcher.png.flat, it is a binary file.
+build\app\intermediates\res\merged\debug\mipmap-xxhdpi_ic_launcher.png.flat, it is a binary file.
+build\app\intermediates\res\merged\debug\mipmap-xxxhdpi_ic_launcher.png.flat, it is a binary file.
+build\app\intermediates\res\merged\debug\values_values.arsc.flat, it is a binary file.
+build\app\intermediates\split_list\debug\splitsDiscoveryTaskDebug\split-list.gson, code is 1, comment is 0, blank is 0.
+build\app\intermediates\transforms\dexBuilder\debug\2.jar, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\debug\3.jar, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\debug\4\com\example\tastynuts\BuildConfig.dex, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\debug\4\com\example\tastynuts\MainActivity.dex, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\debug\4\com\example\tastynuts\R$drawable.dex, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\debug\4\com\example\tastynuts\R$mipmap.dex, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\debug\4\com\example\tastynuts\R$style.dex, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\debug\4\com\example\tastynuts\R.dex, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\debug\4\io\flutter\plugins\GeneratedPluginRegistrant.dex, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\debug\__content__.json, code is 1, comment is 0, blank is 0.
+build\app\intermediates\transforms\dexMerger\debug\0\classes.dex, it is a binary file.
+build\app\intermediates\transforms\dexMerger\debug\__content__.json, code is 1, comment is 0, blank is 0.
+build\app\intermediates\transforms\externalLibsDexMerger\debug\0\classes.dex, it is a binary file.
+build\app\intermediates\transforms\externalLibsDexMerger\debug\__content__.json, code is 1, comment is 0, blank is 0.
+build\app\intermediates\transforms\mergeJavaRes\debug\0.jar, it is a binary file.
+build\app\intermediates\transforms\mergeJavaRes\debug\__content__.json, code is 1, comment is 0, blank is 0.
+build\app\intermediates\transforms\mergeJniLibs\debug\0\lib\arm64-v8a\libflutter.so, it is a binary file.
+build\app\intermediates\transforms\mergeJniLibs\debug\0\lib\x86\libflutter.so, it is a binary file.
+build\app\intermediates\transforms\mergeJniLibs\debug\0\lib\x86_64\libflutter.so, it is a binary file.
+build\app\intermediates\transforms\mergeJniLibs\debug\__content__.json, code is 1, comment is 0, blank is 0.
+build\app\outputs\apk\app.apk, it is a binary file.
+build\app\outputs\apk\app.apk.sha1, code is 1, comment is 0, blank is 0.
+build\app\outputs\apk\debug\app-debug.apk, it is a binary file.
+build\app\outputs\apk\debug\output.json, code is 1, comment is 0, blank is 0.
+build\app\outputs\logs\manifest-merger-debug-report.txt, code is 79, comment is 0, blank is 0.
+build\app\tmp\flutterBuildX86Jar\MANIFEST.MF, code is 1, comment is 0, blank is 1.
+build\frontend_server.d, code is 1, comment is 0, blank is 0.
+ios\Flutter\AppFrameworkInfo.plist, code is 26, comment is 0, blank is 0.
+ios\Flutter\Debug.xcconfig, code is 1, comment is 0, blank is 0.
+ios\Flutter\Generated.xcconfig, code is 8, comment is 1, blank is 0.
+ios\Flutter\Release.xcconfig, code is 1, comment is 0, blank is 0.
+ios\Runner.xcodeproj\project.pbxproj, code is 470, comment is 27, blank is 13.
+ios\Runner.xcodeproj\project.xcworkspace\contents.xcworkspacedata, code is 7, comment is 0, blank is 0.
+ios\Runner.xcodeproj\xcshareddata\xcschemes\Runner.xcscheme, code is 93, comment is 0, blank is 0.
+ios\Runner.xcworkspace\contents.xcworkspacedata, code is 7, comment is 0, blank is 0.
+ios\Runner\AppDelegate.h, code is 4, comment is 0, blank is 2.
+ios\Runner\AppDelegate.m, code is 10, comment is 0, blank is 3.
+ios\Runner\Assets.xcassets\AppIcon.appiconset\Contents.json, code is 122, comment is 0, blank is 0.
+ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-1024x1024@1x.png, it is a binary file.
+ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-20x20@1x.png, it is a binary file.
+ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-20x20@2x.png, it is a binary file.
+ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-20x20@3x.png, it is a binary file.
+ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-29x29@1x.png, it is a binary file.
+ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-29x29@2x.png, it is a binary file.
+ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-29x29@3x.png, it is a binary file.
+ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-40x40@1x.png, it is a binary file.
+ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-40x40@2x.png, it is a binary file.
+ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-40x40@3x.png, it is a binary file.
+ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-60x60@2x.png, it is a binary file.
+ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-60x60@3x.png, it is a binary file.
+ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-76x76@1x.png, it is a binary file.
+ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-76x76@2x.png, it is a binary file.
+ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-83.5x83.5@2x.png, it is a binary file.
+ios\Runner\Assets.xcassets\LaunchImage.imageset\Contents.json, code is 23, comment is 0, blank is 0.
+ios\Runner\Assets.xcassets\LaunchImage.imageset\LaunchImage.png, it is a binary file.
+ios\Runner\Assets.xcassets\LaunchImage.imageset\LaunchImage@2x.png, it is a binary file.
+ios\Runner\Assets.xcassets\LaunchImage.imageset\LaunchImage@3x.png, it is a binary file.
+ios\Runner\Assets.xcassets\LaunchImage.imageset\README.md, code is 3, comment is 0, blank is 2.
+ios\Runner\Base.lproj\LaunchScreen.storyboard, code is 37, comment is 0, blank is 0.
+ios\Runner\Base.lproj\Main.storyboard, code is 26, comment is 0, blank is 0.
+ios\Runner\GeneratedPluginRegistrant.h, code is 7, comment is 3, blank is 4.
+ios\Runner\GeneratedPluginRegistrant.m, code is 8, comment is 0, blank is 4.
+ios\Runner\Info.plist, code is 45, comment is 0, blank is 0.
+ios\Runner\main.m, code is 8, comment is 0, blank is 1.
+lib\main.dart, code is 141, comment is 9, blank is 5.
+pubspec.lock, code is 139, comment is 1, blank is 0.
+pubspec.yaml, code is 56, comment is 4, blank is 13.
+README.md, code is 10, comment is 3, blank is 6.
+tastynuts.iml, code is 18, comment is 0, blank is 0.
+test\widget_test.dart, code is 14, comment is 10, blank is 6.
+===============================================================================

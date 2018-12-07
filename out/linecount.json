@@ -1,0 +1,1255 @@
+{
+    "extension": "linecount",
+    "version": "0.1.7",
+    "workspace": "d:\\selva\\FlutterSample\\tastynuts",
+    "linecount": [
+        {
+            "version": "0.1.7",
+            "counttime": "2018-12-07 15:57:02",
+            "filesum": 190,
+            "codesum": 7405,
+            "commentsum": 162,
+            "blanksum": 1358,
+            "filelist": [
+                {
+                    "blank": 6,
+                    "code": 65,
+                    "comment": 0,
+                    "filename": ".gitignore"
+                },
+                {
+                    "blank": 0,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": ".idea\\libraries\\Dart_SDK.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": ".idea\\libraries\\Flutter_for_Android.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 15,
+                    "comment": 0,
+                    "filename": ".idea\\libraries\\KotlinJavaRuntime.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": ".idea\\modules.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": ".idea\\runConfigurations\\main_dart.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 36,
+                    "comment": 0,
+                    "filename": ".idea\\workspace.xml"
+                },
+                {
+                    "blank": 2,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": ".metadata"
+                },
+                {
+                    "blank": 0,
+                    "code": 22,
+                    "comment": 20,
+                    "filename": ".packages"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "android\\.gradle\\4.10.2\\fileChanges\\last-build.bin"
+                },
+                {
+                    "filename": "android\\.gradle\\4.10.2\\fileContent\\fileContent.lock",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "android\\.gradle\\4.10.2\\fileHashes\\fileHashes.bin",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "android\\.gradle\\4.10.2\\fileHashes\\resourceHashesCache.bin",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "android\\.gradle\\4.10.2\\gc.properties"
+                },
+                {
+                    "filename": "android\\.gradle\\4.10.2\\javaCompile\\classAnalysis.bin",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "android\\.gradle\\4.10.2\\javaCompile\\jarAnalysis.bin",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "android\\.gradle\\4.10.2\\javaCompile\\javaCompile.lock",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "android\\.gradle\\4.10.2\\javaCompile\\taskHistory.bin",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "android\\.gradle\\4.10.2\\taskHistory\\taskHistory.bin",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "android\\.gradle\\4.10.2\\taskHistory\\taskHistory.lock",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "android\\.gradle\\buildOutputCleanup\\buildOutputCleanup.lock",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": "android\\.gradle\\buildOutputCleanup\\cache.properties"
+                },
+                {
+                    "filename": "android\\.gradle\\buildOutputCleanup\\outputFiles.bin",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "android\\.gradle\\vcs-1\\gc.properties"
+                },
+                {
+                    "blank": 0,
+                    "code": 17,
+                    "comment": 0,
+                    "filename": "android\\.project"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": "android\\.settings\\org.eclipse.buildship.core.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "android\\app\\.classpath"
+                },
+                {
+                    "blank": 0,
+                    "code": 23,
+                    "comment": 0,
+                    "filename": "android\\app\\.project"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": "android\\app\\.settings\\org.eclipse.buildship.core.prefs"
+                },
+                {
+                    "blank": 10,
+                    "code": 48,
+                    "comment": 3,
+                    "filename": "android\\app\\build.gradle"
+                },
+                {
+                    "blank": 2,
+                    "code": 24,
+                    "comment": 13,
+                    "filename": "android\\app\\src\\main\\AndroidManifest.xml"
+                },
+                {
+                    "blank": 2,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": "android\\app\\src\\main\\java\\com\\example\\tastynuts\\MainActivity.java"
+                },
+                {
+                    "blank": 3,
+                    "code": 17,
+                    "comment": 3,
+                    "filename": "android\\app\\src\\main\\java\\io\\flutter\\plugins\\GeneratedPluginRegistrant.java"
+                },
+                {
+                    "blank": 1,
+                    "code": 4,
+                    "comment": 7,
+                    "filename": "android\\app\\src\\main\\res\\drawable\\launch_background.xml"
+                },
+                {
+                    "filename": "android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 2,
+                    "filename": "android\\app\\src\\main\\res\\values\\styles.xml"
+                },
+                {
+                    "blank": 4,
+                    "code": 25,
+                    "comment": 0,
+                    "filename": "android\\build.gradle"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "android\\gradle.properties"
+                },
+                {
+                    "filename": "android\\gradle\\wrapper\\gradle-wrapper.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 1,
+                    "filename": "android\\gradle\\wrapper\\gradle-wrapper.properties"
+                },
+                {
+                    "blank": 10,
+                    "code": 58,
+                    "comment": 0,
+                    "filename": "android\\gradlew"
+                },
+                {
+                    "blank": 8,
+                    "code": 27,
+                    "comment": 0,
+                    "filename": "android\\gradlew.bat"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "android\\local.properties"
+                },
+                {
+                    "blank": 3,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "android\\settings.gradle"
+                },
+                {
+                    "blank": 0,
+                    "code": 27,
+                    "comment": 0,
+                    "filename": "android\\tastynuts_android.iml"
+                },
+                {
+                    "filename": "assets\\Arista-Light-Trial.ttf",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "assets\\Arista-Trial.ttf",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "assets\\boy.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "assets\\Quicksand-Bold.ttf",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "assets\\Quicksand-Light.ttf",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "assets\\Quicksand-Medium.ttf",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "assets\\Quicksand-Regular.ttf",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app.dill",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app.dill.incremental.dill",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app.dill.track.dill",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app.dill.track.dill.incremental.dill",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 2,
+                    "code": 12,
+                    "comment": 6,
+                    "filename": "build\\app\\generated\\not_namespaced_r_class_sources\\debug\\processDebugResources\\r\\com\\example\\tastynuts\\R.java"
+                },
+                {
+                    "blank": 1,
+                    "code": 9,
+                    "comment": 3,
+                    "filename": "build\\app\\generated\\source\\buildConfig\\debug\\com\\example\\tastynuts\\BuildConfig.java"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\annotation_processor_list\\debug\\javaPreCompileDebug\\annotationProcessors.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\apk_list\\debug\\mainApkListPersistenceDebug\\apk-list.gson"
+                },
+                {
+                    "blank": 0,
+                    "code": 28,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\blame\\res\\debug\\multi-v2\\debug.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 28,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\blame\\res\\debug\\multi-v2\\values.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 26,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\blame\\res\\debug\\single\\debug.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\compatible_screen_manifest\\debug\\createDebugCompatibleScreenManifests\\out\\output.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\flutter\\debug\\flutter_assets\\AssetManifest.json"
+                },
+                {
+                    "filename": "build\\app\\intermediates\\flutter\\debug\\flutter_assets\\assets\\Arista-Light-Trial.ttf",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\flutter\\debug\\flutter_assets\\assets\\Arista-Trial.ttf",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\flutter\\debug\\flutter_assets\\assets\\Quicksand-Bold.ttf",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\flutter\\debug\\flutter_assets\\assets\\Quicksand-Light.ttf",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\flutter\\debug\\flutter_assets\\assets\\Quicksand-Medium.ttf",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\flutter\\debug\\flutter_assets\\assets\\Quicksand-Regular.ttf",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\flutter\\debug\\flutter_assets\\FontManifest.json"
+                },
+                {
+                    "filename": "build\\app\\intermediates\\flutter\\debug\\flutter_assets\\fonts\\MaterialIcons-Regular.ttf",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\flutter\\debug\\flutter_assets\\isolate_snapshot_data",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\flutter\\debug\\flutter_assets\\kernel_blob.bin",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 1237,
+                    "code": 5275,
+                    "comment": 26,
+                    "filename": "build\\app\\intermediates\\flutter\\debug\\flutter_assets\\LICENSE"
+                },
+                {
+                    "filename": "build\\app\\intermediates\\flutter\\debug\\flutter_assets\\packages\\cupertino_icons\\assets\\CupertinoIcons.ttf",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\flutter\\debug\\flutter_assets\\vm_snapshot_data",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\flutter\\debug\\snapshot_blob.bin.d"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\flutter\\debug\\snapshot_blob.bin.d.fingerprint"
+                },
+                {
+                    "filename": "build\\app\\intermediates\\flutter\\flutter-x86.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\incremental\\debug-mergeJavaRes\\merge-state",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\incremental\\debug-mergeJavaRes\\zip-cache\\pzxOOic_L+9Rluw4wIOCu9VXY50=",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\incremental\\debug-mergeJavaRes\\zip-cache\\Zh8jEF0wlpZRnbVLYy2F9yJ81+E=",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\incremental\\debug-mergeJniLibs\\merge-state",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\incremental\\debug-mergeJniLibs\\zip-cache\\pzxOOic_L+9Rluw4wIOCu9VXY50=",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\incremental\\debug-mergeJniLibs\\zip-cache\\Zh8jEF0wlpZRnbVLYy2F9yJ81+E=",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\incremental\\mergeDebugJniLibFolders\\merger.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\incremental\\mergeDebugResources\\compile-file-map.properties"
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 2,
+                    "filename": "build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml"
+                },
+                {
+                    "blank": 1,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\incremental\\mergeDebugResources\\merger.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\incremental\\mergeDebugShaders\\merger.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\incremental\\packageDebug\\tmp\\debug\\dex-renamer-state.txt"
+                },
+                {
+                    "blank": 0,
+                    "code": 75,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\incremental\\packageDebug\\tmp\\debug\\file-input-save-data.txt"
+                },
+                {
+                    "filename": "build\\app\\intermediates\\incremental\\packageDebug\\tmp\\debug\\zip-cache\\h3xjFdy3clKzkIjrInJ1nxBAug4=",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\incremental\\packageDebug\\tmp\\debug\\zip-cache\\kl88f_nM_QrW3iAYBqByd_6p9Us=",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\instant_run_merged_manifests\\debug\\processDebugManifest\\instant-run\\output.json"
+                },
+                {
+                    "filename": "build\\app\\intermediates\\javac\\debug\\compileDebugJavaWithJavac\\classes\\com\\example\\tastynuts\\BuildConfig.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\javac\\debug\\compileDebugJavaWithJavac\\classes\\com\\example\\tastynuts\\MainActivity.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\javac\\debug\\compileDebugJavaWithJavac\\classes\\com\\example\\tastynuts\\R$drawable.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\javac\\debug\\compileDebugJavaWithJavac\\classes\\com\\example\\tastynuts\\R$mipmap.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\javac\\debug\\compileDebugJavaWithJavac\\classes\\com\\example\\tastynuts\\R$style.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\javac\\debug\\compileDebugJavaWithJavac\\classes\\com\\example\\tastynuts\\R.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\javac\\debug\\compileDebugJavaWithJavac\\classes\\io\\flutter\\plugins\\GeneratedPluginRegistrant.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 6,
+                    "code": 31,
+                    "comment": 18,
+                    "filename": "build\\app\\intermediates\\merged_manifests\\debug\\processDebugManifest\\merged\\AndroidManifest.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\merged_manifests\\debug\\processDebugManifest\\merged\\output.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\processed_res\\debug\\processDebugResources\\out\\output.json"
+                },
+                {
+                    "filename": "build\\app\\intermediates\\processed_res\\debug\\processDebugResources\\out\\resources-debug.ap_",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\res\\merged\\debug\\drawable_launch_background.xml.flat",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\split_list\\debug\\splitsDiscoveryTaskDebug\\split-list.gson"
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\debug\\2.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\debug\\3.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\debug\\4\\com\\example\\tastynuts\\BuildConfig.dex",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\debug\\4\\com\\example\\tastynuts\\MainActivity.dex",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\debug\\4\\com\\example\\tastynuts\\R$drawable.dex",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\debug\\4\\com\\example\\tastynuts\\R$mipmap.dex",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\debug\\4\\com\\example\\tastynuts\\R$style.dex",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\debug\\4\\com\\example\\tastynuts\\R.dex",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\debug\\4\\io\\flutter\\plugins\\GeneratedPluginRegistrant.dex",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\debug\\__content__.json"
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\transforms\\dexMerger\\debug\\__content__.json"
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\externalLibsDexMerger\\debug\\0\\classes.dex",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\transforms\\externalLibsDexMerger\\debug\\__content__.json"
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\mergeJavaRes\\debug\\0.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\transforms\\mergeJavaRes\\debug\\__content__.json"
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\mergeJniLibs\\debug\\0\\lib\\arm64-v8a\\libflutter.so",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\mergeJniLibs\\debug\\0\\lib\\x86\\libflutter.so",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\mergeJniLibs\\debug\\0\\lib\\x86_64\\libflutter.so",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\transforms\\mergeJniLibs\\debug\\__content__.json"
+                },
+                {
+                    "filename": "build\\app\\outputs\\apk\\app.apk",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\outputs\\apk\\app.apk.sha1"
+                },
+                {
+                    "filename": "build\\app\\outputs\\apk\\debug\\app-debug.apk",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\outputs\\apk\\debug\\output.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 79,
+                    "comment": 0,
+                    "filename": "build\\app\\outputs\\logs\\manifest-merger-debug-report.txt"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\tmp\\flutterBuildX86Jar\\MANIFEST.MF"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\frontend_server.d"
+                },
+                {
+                    "blank": 0,
+                    "code": 26,
+                    "comment": 0,
+                    "filename": "ios\\Flutter\\AppFrameworkInfo.plist"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "ios\\Flutter\\Debug.xcconfig"
+                },
+                {
+                    "blank": 0,
+                    "code": 8,
+                    "comment": 1,
+                    "filename": "ios\\Flutter\\Generated.xcconfig"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "ios\\Flutter\\Release.xcconfig"
+                },
+                {
+                    "blank": 13,
+                    "code": 470,
+                    "comment": 27,
+                    "filename": "ios\\Runner.xcodeproj\\project.pbxproj"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "ios\\Runner.xcodeproj\\project.xcworkspace\\contents.xcworkspacedata"
+                },
+                {
+                    "blank": 0,
+                    "code": 93,
+                    "comment": 0,
+                    "filename": "ios\\Runner.xcodeproj\\xcshareddata\\xcschemes\\Runner.xcscheme"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "ios\\Runner.xcworkspace\\contents.xcworkspacedata"
+                },
+                {
+                    "blank": 2,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "ios\\Runner\\AppDelegate.h"
+                },
+                {
+                    "blank": 3,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "ios\\Runner\\AppDelegate.m"
+                },
+                {
+                    "blank": 0,
+                    "code": 122,
+                    "comment": 0,
+                    "filename": "ios\\Runner\\Assets.xcassets\\AppIcon.appiconset\\Contents.json"
+                },
+                {
+                    "filename": "ios\\Runner\\Assets.xcassets\\AppIcon.appiconset\\Icon-App-1024x1024@1x.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "ios\\Runner\\Assets.xcassets\\AppIcon.appiconset\\Icon-App-20x20@1x.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "ios\\Runner\\Assets.xcassets\\AppIcon.appiconset\\Icon-App-20x20@2x.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "ios\\Runner\\Assets.xcassets\\AppIcon.appiconset\\Icon-App-20x20@3x.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "ios\\Runner\\Assets.xcassets\\AppIcon.appiconset\\Icon-App-29x29@1x.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "ios\\Runner\\Assets.xcassets\\AppIcon.appiconset\\Icon-App-29x29@2x.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "ios\\Runner\\Assets.xcassets\\AppIcon.appiconset\\Icon-App-29x29@3x.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "ios\\Runner\\Assets.xcassets\\AppIcon.appiconset\\Icon-App-40x40@1x.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "ios\\Runner\\Assets.xcassets\\AppIcon.appiconset\\Icon-App-40x40@2x.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "ios\\Runner\\Assets.xcassets\\AppIcon.appiconset\\Icon-App-40x40@3x.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "ios\\Runner\\Assets.xcassets\\AppIcon.appiconset\\Icon-App-60x60@2x.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "ios\\Runner\\Assets.xcassets\\AppIcon.appiconset\\Icon-App-60x60@3x.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "ios\\Runner\\Assets.xcassets\\AppIcon.appiconset\\Icon-App-76x76@1x.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "ios\\Runner\\Assets.xcassets\\AppIcon.appiconset\\Icon-App-76x76@2x.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "ios\\Runner\\Assets.xcassets\\AppIcon.appiconset\\Icon-App-83.5x83.5@2x.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 23,
+                    "comment": 0,
+                    "filename": "ios\\Runner\\Assets.xcassets\\LaunchImage.imageset\\Contents.json"
+                },
+                {
+                    "filename": "ios\\Runner\\Assets.xcassets\\LaunchImage.imageset\\LaunchImage.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "ios\\Runner\\Assets.xcassets\\LaunchImage.imageset\\LaunchImage@2x.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "ios\\Runner\\Assets.xcassets\\LaunchImage.imageset\\LaunchImage@3x.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 2,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "ios\\Runner\\Assets.xcassets\\LaunchImage.imageset\\README.md"
+                },
+                {
+                    "blank": 0,
+                    "code": 37,
+                    "comment": 0,
+                    "filename": "ios\\Runner\\Base.lproj\\LaunchScreen.storyboard"
+                },
+                {
+                    "blank": 0,
+                    "code": 26,
+                    "comment": 0,
+                    "filename": "ios\\Runner\\Base.lproj\\Main.storyboard"
+                },
+                {
+                    "blank": 4,
+                    "code": 7,
+                    "comment": 3,
+                    "filename": "ios\\Runner\\GeneratedPluginRegistrant.h"
+                },
+                {
+                    "blank": 4,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "ios\\Runner\\GeneratedPluginRegistrant.m"
+                },
+                {
+                    "blank": 0,
+                    "code": 45,
+                    "comment": 0,
+                    "filename": "ios\\Runner\\Info.plist"
+                },
+                {
+                    "blank": 1,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "ios\\Runner\\main.m"
+                },
+                {
+                    "blank": 5,
+                    "code": 141,
+                    "comment": 9,
+                    "filename": "lib\\main.dart"
+                },
+                {
+                    "blank": 0,
+                    "code": 139,
+                    "comment": 1,
+                    "filename": "pubspec.lock"
+                },
+                {
+                    "blank": 13,
+                    "code": 56,
+                    "comment": 4,
+                    "filename": "pubspec.yaml"
+                },
+                {
+                    "blank": 6,
+                    "code": 10,
+                    "comment": 3,
+                    "filename": "README.md"
+                },
+                {
+                    "blank": 0,
+                    "code": 18,
+                    "comment": 0,
+                    "filename": "tastynuts.iml"
+                },
+                {
+                    "blank": 6,
+                    "code": 14,
+                    "comment": 10,
+                    "filename": "test\\widget_test.dart"
+                }
+            ]
+        }
+    ]
+}
